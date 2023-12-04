@@ -1,0 +1,25 @@
+.align{
+    display: inline;
+    margin-left:40px;
+    padding-bottom: 45px;
+}
+.xxx{
+    background-color: powderblue;
+}
+.img1{
+    margin-left: 150px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.img,.txt{
+    margin-right: 25px;
+}
+.result{
+    margin-left: 270px;
+}
+
+.trainbook{
+    width:100%;
+    height:100%;
+    
+}
